@@ -46,20 +46,22 @@ A **React + Vite** car rental application that lets users browse vehicles, check
    git clone https://github.com/Ilyasisse/CarRental.git
 
    
-2.Navigate to the project folder:
-cd CarRental
+Navigate to the project folder:
 
+2. cd CarRental
 
 Install dependencies:
+
 3. npm install
 
-
 Start the development server:
-4 .npm run dev
 
-Usage:
+4. npm run dev
+
+Usage
 
 Once the development server is running, open your browser and navigate to http://localhost:5173 (or the port Vite provides) to view the app.
+
 Folder Structure
 CarRental/
 ├─ src/
@@ -73,10 +75,12 @@ CarRental/
 ├─ eslint.config.js
 └─ README.md
 
-Contributing:
+Contributing
+
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
 
 License
+
 This project is MIT licensed.
 
 Built with ❤️ by Ilyas Isse
